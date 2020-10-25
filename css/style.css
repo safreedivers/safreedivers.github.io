@@ -76,7 +76,7 @@ a, a:hover, a:focus, a:active, a.active {
 
 @media (min-width: 768px) {
 	section {
-	    padding: 20px 20px;
+	    padding: 90px 0;
 	}
 }
 
@@ -142,8 +142,8 @@ section {
 		-webkit-transition:padding .3s;
 		-moz-transition:padding .3s;
 		transition:padding .3s;
-		border:0
-        padding: 20px 0
+		border:0px
+        padding: 0px 0px
 
 	}
 	.navbar-default .navbar-brand {
@@ -157,7 +157,7 @@ section {
 	}
 	.navbar-default.navbar-shrink {
 		background-color: #f8f8f8;
-        padding: 20px 0
+        padding: 0px 0px
 	}
 	.navbar-default.navbar-shrink .navbar-brand {
 		font-size: 1.5em
@@ -182,14 +182,14 @@ header {
 }
 
 header .intro-text {
-    padding-top: 500px;
-    padding-bottom: 50px;
+    padding-top: 400px;
+    padding-bottom: 20px;
 }
 
 @media (min-width: 768px) {
 	header .intro-text {
 	    padding-top: 500px;
-	    padding-bottom: 50px;
+	    padding-bottom: 20px;
 	}
 }
 
@@ -222,7 +222,7 @@ header .intro-text .intro-heading {
 	header .intro-text .intro-heading {
 	    text-transform: uppercase;
 	    font-weight: 600;
-	    font-size: 38px;
+	    font-size: 32px;
 	    line-height: 36px;
 	    margin-bottom: 20px;
 	}
@@ -241,7 +241,7 @@ header .intro-text .intro-heading {
     font-size: 15px;
     font-weight: 300;
     line-height: 25px;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 20px 60px 20px;
 }
 
 /*--------------------
